@@ -1,0 +1,8 @@
+applications:
+- name: RaviLoginApp
+  host: RaviLoginApp
+  disk: 1024M
+  path: RaviLoginApp.war
+  domain: mybluemix.net
+  memory: 512M
+  instances: 1
